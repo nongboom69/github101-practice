@@ -21,8 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Peetanan | Team3in1 | Hipster |  | |
-
+| Peetanan | 3in1 | Hipster |  | |
 ---
 
 ## วิธีทำ Part B: Practical Test
